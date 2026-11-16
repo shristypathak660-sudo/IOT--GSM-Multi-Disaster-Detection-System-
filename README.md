@@ -9,5 +9,6 @@ Final Year Project - KNIT Sultanpur 2025-26
 **Files:**
 - Code: IOT_GSM_Multi_Disaster file
 - Hardware Photo: IMG file (working prototype)
-
-**Team:** Anshika, Shristy, Srishty, Atifa | Guide: Prof. H.V. Singh
+### Real Hardware Setup
+<img src="hardware.jpg" width="400">
+**Team:** Anshika, Shristy Pathak, Srishty, Atifa | Guide: Prof. H.V. Singh
